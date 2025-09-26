@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239704797857",
+    "project_id": "tawlaareservationapp",
+    "storage_bucket": "tawlaareservationapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239704797857:android:5820fc77ac2acc8e4bf6e0",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationtawlaareservationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSDcISwBKX0n-S8tl1M8IF0w7Y9VVlQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
